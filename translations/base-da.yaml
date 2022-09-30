@@ -2,7 +2,7 @@ steamPage:
     shortText: Shapez.io handler om at bygge fabrikker på en grænseløs spilleflade
         for automatisk at skabe og kombinere figurer, der i stigende grad bliver
         mere komplicerede.
-    discordLinkShort: Official Discord
+    discordLinkShort: Officiel Discord
     intro: >-
         Shapez.io er et afslappet spil hvor du skal bygge fabrikker for at
         automatisere productionen af geometriske figurer.
@@ -51,7 +51,7 @@ global:
         escape: ESC
         shift: SKIFT/SHIFT
         space: MELLEMRUM
-    loggingIn: Logging in
+    loggingIn: Logger ind
     loadingResources: Downloader yderligere ressourcer (<percentage> %)
     discount: -<percentage>%
     discountSummerSale: SPECIAL PROMOTION! Offer ends 7 July
@@ -69,8 +69,8 @@ demoBanners:
     playtimeDisclaimer: Den fulde version indeholder mere end <strong>20 timers indhold</strong>.
     playerCount: <playerCount> spillere som dig spiller lige nu shapez på Steam
     untilEndOfDemo: Indtil afslutningen af demoen
-    playtimeDisclaimerDownload: Du kan fortsætte dit savegame i den fulde version!
-        Klik <strong>her</strong> for at downloade dit savegame.
+    playtimeDisclaimerDownload: Du kan fortsætte dit gemte spil i den fulde version!
+        Klik <strong>her</strong> for at downloade dit gemte spil.
     titleV2: "Spil den fulde version nu for:"
 mainMenu:
     play: Spil
@@ -86,8 +86,8 @@ mainMenu:
     browserWarning: Undskyld, men spillet er kendt for at køre langsomt på denne
         browser! Køb spillet eller download Chrome for den fulde oplevelse.
     savegameLevel: Niveau <x>
-    savegameLevelUnknown: Ukendt Niveau
-    savegameUnnamed: Uden Navn
+    savegameLevelUnknown: Ukendt niveau
+    savegameUnnamed: Uden navn
     puzzleMode: Puzzle-tilstand
     back: Tilbage
     puzzleDlcText: Synes du det er det sjovt at gøre maskinerne mindre og mere
@@ -95,14 +95,14 @@ mainMenu:
     puzzleDlcWishlist: Wishlist den nu!
     puzzleDlcViewNow: Se DLC
     mods:
-        title: Active Mods
+        title: Aktive Mods
         warningPuzzleDLC: Det er ikke muligt at spille Puzzle DLC med mods. Slå alle
             mods fra for at spille DLC.
-    playingFullVersion: You are now playing the full version!
-    logout: Logout
-    noActiveSavegames: No active savegames found - Click play to start a new game!
-    playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
+    playingFullVersion: Du spiller nu den fulde version!
+    logout: Log ud
+    noActiveSavegames: Ingen gemte spil fundet - Klik på spil for at starte et nyt spil!
+    playFullVersionV2: Købt shapez på Steam? Spil den fulde version i din browser!
+    playFullVersionStandalone: Du kan nu også spille den fulde version i din browser!
 dialogs:
     buttons:
         ok: OK
@@ -139,7 +139,7 @@ dialogs:
         title: Genstart er nødvendig
         text: Du er nødt til at genstarte spillet for at anvende indstillingerne.
     editKeybinding:
-        title: Ændr Keybinding
+        title: Ændr tastefunktion
         desc: Tryk på knappen du vil bruge, eller escape for at fortryde.
     resetKeybindingsConfirmation:
         title: Nulstil tastefunktioner
